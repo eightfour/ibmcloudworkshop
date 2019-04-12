@@ -1,0 +1,5 @@
+ applications:
+ - name: wizardly-clarke
+   memory: 256M
+   host: wizardly-clarke
+   buildpack: staticfile_buildpack
